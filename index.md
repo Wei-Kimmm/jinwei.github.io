@@ -30,7 +30,7 @@ She is a lecturer in the School of Information Science and Technology at Dalian 
 
 ---
 
-### Publications[[Gooogle Scholar]](https://scholar.google.com/citations?user=LCP3i7sAAAAJ&hl=zh-CN)
+### Publications[[Google Scholar]](https://scholar.google.com/citations?user=LCP3i7sAAAAJ&hl=zh-CN)
 
 * Bai, Shanshan; Liu, Risheng<sup>*</sup>; Su, Zhixun; Zhang, Changcheng; **Jin, Wei**. "Incremental robust local dictionary learning for visual tracking." ICME(2014)
 * Liu, Risheng<sup>*</sup>; **Jin, Wei**; Su, Zhixun; Zhang, Changcheng. "Latent subspace projection pursuit with online optimization for robust visual tracking." IEEE MultiMedia (2014)
