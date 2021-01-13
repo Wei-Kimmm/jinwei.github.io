@@ -9,12 +9,12 @@
       </b></p >
       <p><b>
         <font size="3" face="Verdana">
-          Affiliation: School of Information Science and Technology, Dalian Maritime University
+          Affiliation: Dalian Neusoft University of Information
         </font>
       </b></p >
       <p><b>
         <font size="3" face="Verdana">
-          Address: Dalian Maritime University, Dalian, 116026, China
+          Address: Dalian Neusoft University of Information, Dalian, 116026, China
         </font>
       </b></p >
     </td>
