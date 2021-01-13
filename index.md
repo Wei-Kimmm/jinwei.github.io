@@ -19,7 +19,7 @@
       </b></p >
     </td>
     <td width="20%">
-      < img src="./photo1.jpg" width="100%">
+      < img src="./jinwei_pic.png" width="100%">
     </td>
   </tr>
 </table>
