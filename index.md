@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="80%">
+      <h1>Jun Zhou</h1>
+      <p><b>
+        <font size="3" face="Verdana">
+          Email: jun90[at]dlmu[dot]edu[dot]cn
+        </font>
+      </b></p >
+      <p><b>
+        <font size="3" face="Verdana">
+          Affiliation: School of Information Science and Technology, Dalian Maritime University
+        </font>
+      </b></p >
+      <p><b>
+        <font size="3" face="Verdana">
+          Address: Dalian Maritime University, Dalian, 116026, China
+        </font>
+      </b></p >
+    </td>
+    <td width="20%">
+      < img src="./photo1.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/Wei-Kimmm/jinwei.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+--- 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He is a lecturer in the School of Information Science and Technology at Dalian Maritime University, PR China. He  received the Ph.D. degrees in computational mathematics from Dalian University of Technology. His research interests include computer graphics, image processing and machine learning.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications[[Gooogle Scholar]](https://scholar.google.com/citations?user=R1BlW14AAAAJ&hl=en)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wei-Kimmm/jinwei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **Zhou Jun<sup>*</sup>**, Hua Huang, Bin Liu, and Xiuping Liu. "Normal estimation for 3d point clouds via local plane constraint and multi-scale selection." Computer-Aided Design (2020). [[Paper]](https://arxiv.org/pdf/1910.08537.pdf)
+* **Zhou Jun<sup>*</sup>**, MingJie Wang, Wendong Mao, MingLun Gong, and Xiuping Liu. "SiamesePointNet: A Siamese Point Network Architecture for Learning 3D Shape Descriptor." In Computer Graphics Forum (2020). [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13804)
+* Lina Zhang, Shiyao Wang<sup>*</sup>; **Zhou Jun**; Jian Liu ; Chungang Zhu. "3D grasp saliency analysis via deep shape correspondence." Computer Aided Geometric Design(2020)
+* Xiuping Liu, Hua Huang<sup>*</sup>, Weiming Wang and **Jun Zhou**. "Multi-view 3D shape style transformation." The Visual Computer.(Accepted)
+* Junjie Cao, Hairui Zhu, Yunpeng Bai, **Jun Zhou<sup>*</sup>**, Jinshan Pan and Zhixun Su. "Latent Tangent Space Representation for Normal Estimation." Transactions on Industrial Electronics (2020). (Accepted)
+* **Zhou Jun**, Xiuping Liu<sup>*</sup>, Junjie Cao, Weiming Wang, and Baocai Yin. "Deep mesh labeling via learned semantic boundary guidance." Computer-Aided Design (2018).[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S001044851830054X)
+* **Zhou Jun**, Weiming Wang, Jie Zhang, Baocai Yin, and Xiuping Liu<sup>*</sup>. "3D shape segmentation using multiple random walkers." Journal of Computational and Applied Mathematics (2018).
