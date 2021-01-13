@@ -1,10 +1,10 @@
 <table border="0">
   <tr>
     <td width="80%">
-      <h1>Jun Zhou</h1>
+      <h1>Jin Wei</h1>
       <p><b>
         <font size="3" face="Verdana">
-          Email: jun90[at]dlmu[dot]edu[dot]cn
+          Email: jinwei[at]neusoft[dot]edu[dot]cn
         </font>
       </b></p >
       <p><b>
