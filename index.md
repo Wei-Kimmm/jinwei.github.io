@@ -1,4 +1,4 @@
-<img width="432" height="200" alt="image" src="https://github.com/user-attachments/assets/77f2f2e7-8a9c-449d-b106-59b6a1d07c81" /><table border="0">
+<table border="0">
   <tr>
     <td width="80%">
       <h1>Jin Wei</h1>
